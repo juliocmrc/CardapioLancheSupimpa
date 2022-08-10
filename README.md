@@ -1,2 +1,3 @@
 # CardapioLancheSupimpa
-Sistema desenvolvido com HTML e CSS de um cardápio online
+Sistema básico de desenvolvimento WEB de um cardápio online.
+Foram utilizados HTML e CSS para o desenvolvimento do site.
